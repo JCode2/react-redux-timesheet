@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<div>
+  <h1>
+    Howdy
+  </h1>
+  <h2>
+    Luke
+  </h2>
+  <p>
+    Congrats you have created your first React Component...kinda
+  </p>
+</div>
+`;
